@@ -1,19 +1,19 @@
 /*Adicionar o backgorund e as fontes aqui dps*/
 
 /*Background da tela de login*/
-/* Design sem nome (3) 1 */
-#background_image {
+body{
+    color: #FFFF;
+    text-align: center;
+}
+
+img{
     width: 445px;
     height: 611px;
-};
-
-
-body{
-    width: 430px;
-    height: 940px;
+    margin: 0px;
     
- };
-
-*{
-    border: solid 2px red;
 }
+
+.cadastro_login{
+    background-color: #D95004;
+    margin-top: -10%;
+};
