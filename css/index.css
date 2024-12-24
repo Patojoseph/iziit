@@ -1,19 +1,11 @@
-/*Adicionar o backgorund e as fontes aqui dps*/
-
-/*Background da tela de login*/
-body{
-    color: #FFFF;
-    text-align: center;
-}
-
-img{
-    width: 445px;
-    height: 611px;
-    margin: 0px;
-    
-}
-
-.cadastro_login{
+.inicial{
     background-color: #D95004;
-    margin-top: -10%;
-};
+    width: 100%;
+    border-radius: 66px;
+    display: flex;
+    align-items: center;
+}
+
+.descripition{
+    width: 100%;
+}
